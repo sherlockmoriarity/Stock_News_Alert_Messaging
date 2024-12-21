@@ -38,9 +38,10 @@ Python
 1. Clone the repository:
     bash
     git clone https://github.com/sherlockmoriarity/Stock-News-Alert-Messaging.git
+   
     cd Stock-News-Alert-Messaging
 
-2. Install the required dependencies:
+3. Install the required dependencies:
     pip install requests
     pip install twilio
 
